@@ -16,6 +16,7 @@
 | `README.md` | Eğitim programı (5 gün) |
 | `okul.db` | SQLite, **sahte** okul verisi — SQL/JOIN öğrenmek için |
 | `okul.md` | Öğrenciler için JOIN rehberi (6 tür × 3 örnek = 18 sorgu, sonuçlarıyla) |
+| `navicat.md` | Navicat Premium Windows kurulumu + okul.db'yi Navicat'e tanıtma |
 | `md/surec.md` | Bu dosya |
 
 ## Veritabanı notları
@@ -31,6 +32,7 @@
 - [x] surec.md
 - [x] okul.db genişletildi (eşleşmeyen veriler)
 - [x] okul.md JOIN rehberi
+- [x] navicat.md kurulum rehberi
 
 ## Sıradaki adım
 - `.gitignore` oluştur (`.env`, `config.json`, `__pycache__/`).
