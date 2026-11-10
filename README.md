@@ -3,6 +3,12 @@
 Bu repo, işletme içinde verilen **yapay zeka ile kodlama eğitimi** için hazırlanmıştır.
 Eğitim 5 gün sürer; 4 gün temel bilgiler, son gün uçtan uca uygulamalı projedir.
 
+## Repoyu Alma
+
+```
+git clone https://github.com/Dikkan-Githup-Organization/yapayzeka.git
+```
+
 ## Eğitim Programı
 
 ### 1. Gün: Temel Altyapı, Ağ, İşletim Sistemleri & Sanallaştırma

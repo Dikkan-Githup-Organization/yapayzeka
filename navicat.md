@@ -48,7 +48,7 @@ Eğitim için Lite veya deneme sürümü yeterlidir. Hangisini kullanacağını 
 **Yol A — Git ile (önerilen):**
 
 ```
-git clone <repo-adresi>
+git clone https://github.com/Dikkan-Githup-Organization/yapayzeka.git
 ```
 
 Dosya, klonlanan klasörün içinde `okul.db` olarak durur.
