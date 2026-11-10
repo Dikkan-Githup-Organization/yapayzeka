@@ -58,4 +58,4 @@ Eğitim 5 gün sürer; 4 gün temel bilgiler, son gün uçtan uca uygulamalı pr
 ## Repo Notları
 
 - Gizli bilgiler (`.env`, `config.json` vb.) repoya **commit edilmez**; `.gitignore` ile dışarıda tutulur.
-- Yerel veritabanı dosyaları (örn. `okul.db`) repoya eklenmez.
+- `okul.db` (sahte verili SQLite) eğitim materyali olarak repoda durur; SQL/JOIN çalışması için bkz. [okul.md](okul.md).
