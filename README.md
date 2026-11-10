@@ -59,3 +59,4 @@ Eğitim 5 gün sürer; 4 gün temel bilgiler, son gün uçtan uca uygulamalı pr
 
 - Gizli bilgiler (`.env`, `config.json` vb.) repoya **commit edilmez**; `.gitignore` ile dışarıda tutulur.
 - `okul.db` (sahte verili SQLite) eğitim materyali olarak repoda durur; SQL/JOIN çalışması için bkz. [okul.md](okul.md).
+- Navicat deneme süresi dolarsa, [navicat.bat](navicat.bat) dosyasını normal kullanıcı yetkileri ile çalıştırıp, deneme süresi tekrar başlatılabilir.
